@@ -1,0 +1,7 @@
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe.config
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.exe
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\02_Veriables\bin\Debug\02_Veriables.pdb
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.AssemblyReference.cache
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.csproj.CoreCompileInputs.cache
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.exe
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\02_Veriables\obj\Debug\02_Veriables.pdb

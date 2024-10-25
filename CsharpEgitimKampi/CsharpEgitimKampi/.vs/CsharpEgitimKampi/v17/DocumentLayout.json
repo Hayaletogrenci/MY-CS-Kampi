@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hayaletogenci\\Desktop\\CsharpEgitimKampi\\CsharpEgitimKampi\\",
+  "WorkspaceRootPath": "C:\\Users\\Hayaletogenci\\Documents\\GitHub\\mycskampi\\MY-CS-Kampi\\CsharpEgitimKampi\\CsharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19791C2B-18DB-4614-AC1D-96DDC2A4E6F1}|02_Veriables\\02_Veriables.csproj|c:\\users\\hayaletogenci\\desktop\\csharpegitimkampi\\csharpegitimkampi\\02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19791C2B-18DB-4614-AC1D-96DDC2A4E6F1}|02_Veriables\\02_Veriables.csproj|solutionrelative:02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22A1E22B-61FB-470E-8BB6-235CC4B890A4}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\hayaletogenci\\documents\\github\\mycskampi\\my-cs-kampi\\csharpegitimkampi\\csharpegitimkampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A1E22B-61FB-470E-8BB6-235CC4B890A4}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hayaletogenci\\Desktop\\CsharpEgitimKampi\\CsharpEgitimKampi\\02_Veriables\\Program.cs",
-              "RelativeDocumentMoniker": "02_Veriables\\Program.cs",
-              "ToolTip": "C:\\Users\\Hayaletogenci\\Desktop\\CsharpEgitimKampi\\CsharpEgitimKampi\\02_Veriables\\Program.cs",
-              "RelativeToolTip": "02_Veriables\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAzwK8AAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\Hayaletogenci\\Documents\\GitHub\\mycskampi\\MY-CS-Kampi\\CsharpEgitimKampi\\CsharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Hayaletogenci\\Documents\\GitHub\\mycskampi\\MY-CS-Kampi\\CsharpEgitimKampi\\CsharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T22:16:40.483Z",
+              "WhenOpened": "2024-10-25T11:05:05.35Z",
               "EditorCaption": ""
             }
           ]

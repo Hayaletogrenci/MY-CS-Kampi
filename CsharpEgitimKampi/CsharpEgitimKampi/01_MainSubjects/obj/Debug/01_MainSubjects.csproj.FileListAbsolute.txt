@@ -1,0 +1,7 @@
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\Hayaletogenci\Documents\GitHub\mycskampi\MY-CS-Kampi\CsharpEgitimKampi\CsharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
