@@ -64,7 +64,6 @@ namespace _05_LoopWithStars
 
             #endregion
 
-
             #region Dik ve Ters Dik Üçgen Beraber
 
             //for (int i = 1; i <= 5; i++)
@@ -125,7 +124,6 @@ namespace _05_LoopWithStars
 
             #endregion
 
-
             #region Piramit 
 
             //int n = 5;
@@ -145,7 +143,6 @@ namespace _05_LoopWithStars
             //}
 
             #endregion
-
 
             #region Ters Piramit
 

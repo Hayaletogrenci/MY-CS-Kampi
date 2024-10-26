@@ -28,7 +28,7 @@ namespace _09_DatabaseProject
             Console.WriteLine("----------------------");
             tableNumber = Console.ReadLine();
 
-            SqlConnection connection = new SqlConnection("Data Source=DESKTOP-93AJJL4;initial Catalog=EgitimKampiDb;integrated security=true");
+            SqlConnection connection = new SqlConnection("Data Source=DESKTOP-93AJJL4\\SQLEXPRESS;Initial Catalog=EgitimKampiDB;Integrated Security=True");
             connection.Open();
             SqlCommand command = new SqlCommand("Select * From TblCategory", connection);
             SqlDataAdapter adapter = new SqlDataAdapter(command);
